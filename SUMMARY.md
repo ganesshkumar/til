@@ -4,4 +4,4 @@
 * Docker
   * [Syncing Container Clock](/docker/syncing-container-clock.md)
 * tmux
-  * [Session Management](tmux/sessions.md)
+  * [Cheatsheet](tmux/cheatsheet.md)
