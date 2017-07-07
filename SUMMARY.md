@@ -1,7 +1,12 @@
 # Summary
 
 * [Introduction](README.md)
-* Docker
+* docker
   * [Syncing Container Clock](/docker/syncing-container-clock.md)
+* gradle
+  * [Upgrade With Wrapper](/gradle/upgrade_with_wrapper.md)
 * tmux
   * [Cheatsheet](tmux/cheatsheet.md)
+
+
+
