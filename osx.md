@@ -1,3 +1,5 @@
+# OS X
+
 ## Environmental Variables
 
 ### Setting some common (based on default locations) variables
